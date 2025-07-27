@@ -1,0 +1,15 @@
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+vendor/
+*.log
+.vscode/
+.idea/
+.DS_Store
+*.iml
+*.ipr
+*.iws
